@@ -1,4 +1,4 @@
-# Tarea08 - Esteganografia
+# Tarea08 - Esteganografía
 
 ## Autor: Arrieta Mancera Luis Sebastian
 
